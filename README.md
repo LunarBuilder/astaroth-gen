@@ -1,2 +1,2 @@
 # astaroth gen
-ddododo
+astaroth generator bot thing 
